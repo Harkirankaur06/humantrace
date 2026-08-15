@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Harkirankaur06/humantrace-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Harkirankaur06/humantrace-frontend.git
